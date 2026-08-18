@@ -1,36 +1,48 @@
-# Hi, I'm Huang Xiao 👋
+# Huang Xiao
 
-I build AI products that turn complex workflows into reliable, usable software.
+**AI Product Builder · Agent Workflows · Business Automation**
 
-My work sits at the intersection of **AI agents**, **business automation**, and **full-stack product development**. I care about more than demos: clear user value, traceable decisions, safe tool use, and systems that can actually be operated.
+I turn complex business workflows into AI products that people can actually use and operate.
 
-## What I work on
+我关注 AI Agent、业务自动化和全栈产品开发：不止做 Demo，也重视用户价值、证据链、权限边界、失败恢复与真实上线。
 
-- **Agent workflows** — multi-step research, evidence collection, quality gates, pause/resume, and human review
-- **Business automation** — recruiting, document processing, structured data sync, and operational workflows
-- **AI-native web products** — TypeScript/React applications with production deployment, SEO, and measurable product loops
-- **Local-first tooling** — practical integrations across files, browsers, terminals, and collaboration platforms
+[Live product](https://healthydinnernow.com) · [GitHub](https://github.com/mli217866-afk)
 
 ## Selected work
 
-### Product Definition Agent
+### [Healthy Dinner Now](https://healthydinnernow.com) — live product
 
-A structured, multi-stage workflow that helps product teams collect evidence, analyze user needs, evaluate opportunities, and produce reviewable product definitions. It emphasizes traceability, quality checks, and recoverable execution.
+A bilingual recipe and dinner-planning product built and shipped on Cloudflare. I worked across product definition, frontend implementation, structured SEO, deployment, and production verification.
 
-### Workflow Automation
+`TanStack Start` `React` `TypeScript` `Cloudflare Workers` `SEO`
 
-Tools that reduce repetitive operational work by connecting browser tasks, document parsing, OCR, structured records, and collaboration platforms—with human approval kept at important decision points.
+### Product Definition Agent — private project
 
-### AI Web Products
+A structured 10-stage workflow that helps product teams collect evidence, analyze user needs, evaluate opportunities, and produce reviewable product definitions. The system supports internal structured inputs, web evidence, quality gates, and pause/resume when information is missing.
 
-End-to-end product experiments built with modern TypeScript and React stacks, covering product design, implementation, SEO, deployment, and production verification.
+`AI Agents` `Tool Use` `Evidence Workflow` `Quality Gates` `TypeScript`
+
+### Business Workflow Automation — private projects
+
+Automation for recruiting and operations: browser workflows, local document archiving, OCR extraction, structured record synchronization, and human approval at important decision points.
+
+`TypeScript` `Python` `Browser Automation` `OCR` `Feishu/Lark`
+
+## What I care about
+
+- **Business value first** — start with the decision or workflow being improved
+- **Evidence over confident output** — keep conclusions traceable to their sources
+- **Human control** — make consequential actions observable and interruptible
+- **Production reality** — handle state, permissions, retries, recovery, and deployment
 
 ## Toolbox
 
-`TypeScript` · `React` · `TanStack` · `Node.js` · `Python` · `AI Agents` · `LLM Tool Use` · `Cloudflare` · `Playwright` · `GitHub Actions`
+- **Product & AI:** AI agents, LLM tool use, evidence workflows, quality evaluation
+- **Engineering:** TypeScript, React, TanStack, Node.js, Python, Playwright
+- **Delivery:** Cloudflare, GitHub Actions, SEO, production verification
 
-## How I think about AI products
+## Current focus
 
-> Useful agents are not just prompts. They are models, tools, context, state, permissions, recovery, and a product experience designed as one system.
+I'm exploring production-grade agent systems and practical AI automation for product, recruiting, research, and content workflows.
 
-I'm currently exploring production-grade agent systems and practical AI automation. If you're working on a real workflow that AI can improve, I'd be glad to connect.
+> Useful agents are not just prompts. They are models, tools, context, state, permissions, recovery, and product experience designed as one system.
