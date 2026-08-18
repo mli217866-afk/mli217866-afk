@@ -20,11 +20,11 @@
 
 `AI Agent` `工具调用` `证据工作流` `质量门禁` `TypeScript`
 
-### 业务流程自动化 — 私有项目
+### [Employee Probation Workflow](https://github.com/mli217866-afk/employee-probation-workflow) — 已开源
 
-围绕招聘与运营场景构建自动化工具，覆盖浏览器任务、本地文档归档、OCR 信息提取、结构化数据同步，并在关键决策点保留人工确认。
+面向企业 HR 场景的员工试用期自动化服务，覆盖新员工建档、三轮评估、HR 决策、飞书文档下发与 IM 通知。通过纯函数状态机、事件与定时双入口、幂等台账和健康巡检，让流程可恢复、可追踪并避免重复通知。
 
-`TypeScript` `Python` `浏览器自动化` `OCR` `飞书`
+`TypeScript` `Bun` `状态机` `定时调度` `幂等设计` `飞书`
 
 ## 我的产品原则
 
